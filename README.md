@@ -1,1 +1,1 @@
-# TALLER-GestionInventario
+# TALLER - Gestion Inventario con Haskell
